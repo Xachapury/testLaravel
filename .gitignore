@@ -1,23 +1,24 @@
-/vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+  
+/ vendor /
+node_modules /
+NPM-debug.log
+Пряжа-error.log
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+# Laravel 4 конкретный
+bootstrap / compiled.php
+приложение / хранилище /
 
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
+# Laravel 5 & Lumen конкретно
+общественный / склад
+общедоступный / горячий
 
-# Laravel 5 & Lumen specific with changed public path
-public_html/storage
-public_html/hot
+# Laravel 5 & Lumen специфично с измененным публичным путем
+public_html / storage
+public_html / hot
 
-storage/*.key
+хранилище / * .key
 .env
 Homestead.yaml
 Homestead.json
-/.vagrant
+/ .vagrant
 .phpunit.result.cache
